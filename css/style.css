@@ -1,0 +1,113 @@
+body
+{
+background:#E5E5E5;
+}
+
+h1{
+	font-family: 'Bitter';
+	font-weight: 300;
+	font-size: 3em;
+	margin-bottom: 15px;
+	
+}
+
+
+#wrapper{
+	margin: 0 auto;
+    width: 900px;
+
+}
+
+.pagecontent {
+	text-align: left;
+	margin-left: 300px;
+	color:#FF5722;
+}
+
+.header-right {
+	font-family: 'Oxygen';
+	font-weight: 300;
+	font-size: 1.5em;
+	margin-left: 300px;
+
+}
+
+.headerimage {
+	float: left;
+
+}
+
+.maincontentheader{
+	text-align: center;
+	padding-top: 100px;
+	margin-left: 0px;
+	color:#FF5722;
+
+}
+
+a{
+	display:inline-block;
+}
+
+#projectimage{
+	padding-top: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 10px;
+
+
+}
+
+#iconimage{
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+.maincontent{
+	width: 900px;
+}
+
+.subcontentheader{
+	color:#FF5722;
+	width: 900px;
+	text-align: center;
+}
+.project{
+	width: 350px;
+	display: inline-block;
+	padding-left: 25px;
+}
+
+.example{
+	margin-left: auto;
+    margin-right: auto;
+}
+
+
+.projecttext{
+	font-family: 'Oxygen-Bold';
+	color: #000000;
+
+}
+
+.footer{
+
+	text-align: center;
+	color:#FF5722;
+}
+
+.footer-right {
+	font-family: 'Oxygen';
+	font-weight: 300;
+	font-size: 1.5em;
+	text-align: center;
+	
+
+}
+
+.sub-title {
+	font-family: 'Oxygen';
+	font-weight: 300;
+	font-size: 1.5em;
+	color: #000000;
+}
